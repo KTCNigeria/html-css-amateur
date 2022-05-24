@@ -1,9 +1,18 @@
-# <p align="center"> Hey! You made it to the next stage 🤩🤩 </p>
+# <p align="center">Task One - Forms (1)</p>
 
-By finishing the beginner tasks, you have learned the very basics of web development! Going through your submissions on the community and seeing some wonderful works have been amazing. But there's more work to do... 👀
+User input is very important, as it helps to collect useful information from users, as well as determine output in some cases e.g search engines. Most times, this is done through forms, as it is in surveys.
 
-In this amateur taskboard, we'll be creating more advanced HTML components, like basic HTML validation used in forms e.g login/register pages, as well as take a pinch of CSS.
+## Your Task
+Scenario: You have a chat application, and you need users to log in with their username and password.
 
-You learn by asking questions, so feel free to do so in the community. There will always be developers of all experience levels and stack to help you out.
+Solution: 
+<ul>
+  <li>Create a login page with 2 <input> boxes. One for the username, the other for password.</li>
+  <li>Add a button with label of 'Sign In'.</li>
+  <li>Add a Forgot Password link using `<a>` . This doesn't have to link to an external site.</li>
+</ul>
 
-Buckle your seatbelts, this will be a fun ride 😊.
+
+for learning about forms and inputs: [W3Schools](https://www.w3schools.com/html/html_forms.asp)
+
+Don't forget to have fun! 😊
