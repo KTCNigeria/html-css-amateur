@@ -1,18 +1,29 @@
-# <p align="center">Task One - Forms (1)</p>
+# <p align="center">Task Two - Forms (2)</p>
 
-User input is very important, as it helps to collect useful information from users, as well as determine output in some cases e.g search engines. Most times, this is done through forms, as it is in surveys.
+There are different formats of inputs that can be recieved from a user such as text, email, number, address, password, link, files even checkboxes and radio buttons... to name a few. As a web developer, you need to be able to tailor your websites to fit your user's needs. In this case, you need to use specific user input types for specific purposes.
 
 ## Your Task
-Scenario: You have a chat application, and you need users to log in with their username and password.
+Scenario: Remember how you have a chat application? Well users need to register to have an account to use the application now, so that they can login to tyhe account next time.
 
 Solution: 
 <ul>
-  <li>Create a login page with 2 <input> boxes. One for the username, the other for password.</li>
-  <li>Add a button with label of 'Sign In'.</li>
-  <li>Add a Forgot Password link using `<a>` . This doesn't have to link to an external site.</li>
+  <li>Create a register page thats collects all the inputs needed for creating an account:
+  
+  |     Input field     | Input format |
+  |         ---         |      ---     |
+  | First Name          | Text         |
+  | Last Name           | Text         |
+  | Username            | Text         |
+  | Password            | Password     |
+  | Confirm Password    | Password     |
+  | Phone Number        | Telephone    |
+  | Gender              | Radio        |
+
+  <li>Add a button with label of 'Create Account' at the end</li>
+  <li>Add an option to log in to an account that already exists.</li>
 </ul>
 
 
-for learning about forms and inputs: [W3Schools](https://www.w3schools.com/html/html_forms.asp)
+for learning about more inputs types: [W3Schools]([https://www.w3schools.com/html/html_forms.asp](https://www.w3schools.com/html/html_form_input_types.asp))
 
 Don't forget to have fun! 😊
