@@ -24,6 +24,6 @@ Solution:
 </ul>
 
 
-for learning about more inputs types: [W3Schools]([https://www.w3schools.com/html/html_forms.asp](https://www.w3schools.com/html/html_form_input_types.asp))
+for learning about more inputs types: [W3Schools](https://www.w3schools.com/html/html_form_input_types.asp)
 
 Don't forget to have fun! 😊
