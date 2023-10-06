@@ -22,35 +22,29 @@ For example,
 ## Input elements
 We have a lot of input elements, but I would mention the most frequently used ones only:
 
-First, 
 ```html
 <input type="text">
 ```
 This is used for a generic input: maybe like collecting first name or last name from the user, or typing a message on a chat app.
-Second, 
 ```html
 <input type="search">
 ```
 A good use case is for collecting query input for a search engine like Google.
-Third, 
 ```html
 <input type="email">
 ```
 As it's name suggests, it collects email input
-Fourth, 
 ```html
 <input type="password">
 ```
 This collects super secret info, your passwords.
 It changes it's content to dot like characters, to prevent people from seeing your Netflix password 😆. 
-Fifth, 
 ```html
 <input type="radio">
 ```
 You would remember this from your last computer based examination. 
 It was in the form of the options, you were to pick
 This input type 
-Sixth, 
 ```html
 <input type="submit">
 ```
