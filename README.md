@@ -1,9 +1,24 @@
-# <p align="center"> Hey! You made it to the next stage 🤩🤩 </p>
+# Task - CSS Positioning
 
-By finishing the beginner tasks, you have learned the very basics of web development! Going through your submissions on the community and seeing some wonderful works have been amazing. But there's more work to do... 👀
+In this task, we'll explore CSS positioning to layout elements on a web page. Just like forms are essential for user input, positioning helps structure the visual layout of a web page.
 
-In this amateur taskboard, we'll be creating more advanced HTML components, like basic HTML validation used in forms e.g login/register pages, as well as take a pinch of CSS.
+## Positioning Basics
 
-You learn by asking questions, so feel free to do so in the community. There will always be developers of all experience levels and stack to help you out.
+CSS positioning allows you to control the placement of HTML elements. There are several properties to achieve this, including:
+- position: static: The default positioning.
+- position: relative: Allows you to position elements relative to their normal position.
+- position: absolute: Positions elements relative to their nearest positioned ancestor.
+- position: fixed: Elements are positioned relative to the viewport.
+- position: sticky: Acts like relative until it reaches a specified offset, then becomes fixed.ktc
 
-Buckle your seatbelts, this will be a fun ride 😊.
+Reference practice video: [CSS POSITIONING](https.geek4ktc.pythonanywhere.com/ktc/resources/css-position) 
+
+## Your Task
+
+Imagine you want to create a simple webpage layout:
+
+- Create a container div element to hold your content.
+- Inside the container, add two div elements.
+  - One should have some text content and be positioned at the top-left.
+  - The other should have a different background color, some text content, and be positioned at the bottom-right.
+- Use CSS positioning to achieve these layouts.
