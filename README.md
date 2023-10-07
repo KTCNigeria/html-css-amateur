@@ -11,7 +11,7 @@ CSS positioning allows you to control the placement of HTML elements. There are 
 - position: fixed: Elements are positioned relative to the viewport.
 - position: sticky: Acts like relative until it reaches a specified offset, then becomes fixed.ktc
 
-Reference practice video: [CSS POSITIONING](https.geek4ktc.pythonanywhere.com/ktc/resources/css-position) 
+Reference practice video: [CSS POSITIONING](https://geek4ktc.pythonanywhere.com/ktc/resources/css-position) 
 
 ## Your Task
 
