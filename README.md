@@ -5,11 +5,11 @@ In this task, we'll explore CSS positioning to layout elements on a web page. Ju
 ## Positioning Basics
 
 CSS positioning allows you to control the placement of HTML elements. There are several properties to achieve this, including:
-- position: static: The default positioning.
-- position: relative: Allows you to position elements relative to their normal position.
-- position: absolute: Positions elements relative to their nearest positioned ancestor.
-- position: fixed: Elements are positioned relative to the viewport.
-- position: sticky: Acts like relative until it reaches a specified offset, then becomes fixed.ktc
+- ```position: static```: The default positioning.
+- ```position: relative```: Allows you to position elements relative to their normal position.
+- ```position: absolute```: Positions elements relative to their nearest positioned ancestor.
+- ```position: fixed```: Elements are positioned relative to the viewport.
+- ```position: sticky```: Acts like relative until it reaches a specified offset, then becomes fixed.ktc
 
 Reference practice video: [CSS POSITIONING](https://geek4ktc.pythonanywhere.com/ktc/resources/css-position) 
 
