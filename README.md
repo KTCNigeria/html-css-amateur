@@ -7,3 +7,10 @@ In this amateur taskboard, we'll be creating more advanced HTML components, like
 You learn by asking questions, so feel free to do so in the community. There will always be developers of all experience levels and stack to help you out.
 
 Buckle your seatbelts, this will be a fun ride 😊.
+
+### Resources to learn Flexbox
+- [W3schools](https://www.w3schools.com/css/css3_flexbox.asp)
+- [CSS-TRICKS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+-[MDN docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
+-[Web.dev](https://web.dev/learn/css/flexbox)
+-[freecodecamp](https://www.freecodecamp.org/news/css-flexbox-complete-guide/)
