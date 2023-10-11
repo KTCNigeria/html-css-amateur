@@ -14,3 +14,4 @@ Buckle your seatbelts, this will be a fun ride 😊.
 -[MDN docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
 -[Web.dev](https://web.dev/learn/css/flexbox)
 -[freecodecamp](https://www.freecodecamp.org/news/css-flexbox-complete-guide/)
+-[Flex cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
